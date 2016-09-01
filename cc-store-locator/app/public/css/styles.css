@@ -1,0 +1,44 @@
+
+
+/* Map styles */
+.border_map{
+    border: white solid 1px;
+}
+
+.map_content{
+    width: 100%;
+    /*border: red dashed 1px;*/
+}
+
+.map_link{
+	color:#000;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+.results_content{
+    border-right: white solid 1px;
+    vertical-align: top;
+}
+
+.result_entry{
+    cursor: pointer;
+    /*margin-bottom: 5px;*/
+    /*font-size: 12px;*/
+}
+
+/* End map*/
+
+a.map_link:link, a.map_link:visited{
+  color: #000; text-decoration: none;
+}
+
+a.map_link:hover, a.map_link:active{
+	color:#000;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+/*
+---------------- Map custom info window ----------------
+*/
